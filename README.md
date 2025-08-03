@@ -13,7 +13,7 @@
 ## 🏗 系统架构
 check_name(输入不支持中文路径，所以要提前处理图片名字，进行序列化命令)
 
-low_quality(由于内存不足，采用的是降低分辨路）
+low_quality(由于内存不足，采用的是降低分辨率）
 
 main(主函数，采用paddle-structure V3的模型进行识别，)
 
